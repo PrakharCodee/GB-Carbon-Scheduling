@@ -1,0 +1,7 @@
+check,value
+expected intervals,17520
+observed unique intervals,17520
+overlap duplicates removed,52
+missing timestamps,0
+missing actual,0
+missing forecast,43
